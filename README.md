@@ -5,8 +5,11 @@ This project examines data collected from the state of California about the stor
 https://data.cnra.ca.gov/dataset/6d8745c3-b781-4b95-93b6-a8b5b6f70cd5/resource/afdfdc5b-ad81-4d98-bcd1-e65200ef36d6/download/reservoir_elevation_storage_ab1755.csv
 
 Additionally the storage capacity from the Oroville reservoir, San Luis reservoir, and Castaic reservoir were taken from the California Department of Water Resources.
+
 Oroville: https://water.ca.gov/Programs/State-Water-Project/SWP-Facilities/Oroville
+
 San Luis: https://water.ca.gov/Programs/State-Water-Project/SWP-Facilities/San-Luis
+
 Castaic: https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/State-Water-Project/Operations-And-Maintenance/Files/Operations-Control-Office/Project-Wide-Operations/Castaic-Weekly-Reservoir-Storage-Chart.pdf?la=en&hash=AE330834B55597364231707D6E7C52E6273EABAD
 
 Goals of the Visualization:
